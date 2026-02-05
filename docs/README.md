@@ -3,8 +3,13 @@
 Emil, Logi & Þröstur
 
 ### Stutt lýsing
-Hægt er að spila allt að 4 saman og fær hver og einn leikmaður eina borg í spilinu. 
+Spilið inniheldur 5 borgir og af þeim eru 4 fyrir leikmenn. Í byrjun spilsins dettur rafmagnið út í einni handahófskenndri borg (ljósið í henni slokknar). Þá ýta leikmenn á takkann í miðju spilsins og á skjánum birtist litur. Leikmenn geta notað einn reit af þeim lit til þess að reyna að ná aftur í rafmagn. Þeir fá að gera þetta tvisvar, og svo dettur önnur borg út. Þetta heldur áfram þar til allar borgir hafa náð að slökkva einu sinni á sér, og ef leikmenn hafa ekki tengt a.m.k. eina borg við aðalborgina þá tapa þeir. Eftir þetta reyna leikmenn að ná að tengja hinar borgirnar annað hvort í borg sem búið er að tengja við aðalborgina eða aðalborgina til þess að ná aftur rafmagni í allar borgirnar. Ef rafmagn kemst á allar borgir vinna leikmenn en ef þeir ná því ekki (t.d. ef borðið flækist og réttir reitir komast ekki fyrir) þá tapa þeir.
 
 ### Spilareglur
-- Hver og einn leikmaður getur gert einu sinni í einu. Leikmaður getur annað hvort 
+- Hver og einn leikmaður getur gert einu sinni í einu. Leikmaður ýtir á takkann í miðjunni og notar reit af þeim liti (annaðhvort reit með male snúru eða female, eftir því sem hentar).
+- Í byrjun leiksins slokknar á einni borg.
+- Eftir hverjar 2 lotur slokknar á annarri borg þar til slokknað hefur á öllum einu sinni. Ef borg er svo tengd aftur í rafmagn getur ekki slokknað aftur á henni.
+- Ef slokknar á öllum borgum án þess að leikmenn nái að tengja eina við rafmagn tapa þeir. Sömuleiðis ef þeir geta ekki lengur tengt einhverja borg.
+- Ef leikmenn ná að kveikja aftur á öllum borgum vinna þeir.
+- Reitir eru fastir á borði.
 #
