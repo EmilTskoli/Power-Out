@@ -17,7 +17,7 @@ Spilið inniheldur 5 borgir og af þeim eru 4 fyrir leikmenn. Í byrjun spilsins
 - Reitir eru fastir á borði.
 
 ### Mynd af pappírsfrumgerð
-![Mynd af pappírsfrumgerð](./myndir/pappirsfrumgerd.jpg)
+![Mynd af pappírsfrumgerð](.myndir/pappirsfrumgerd.jpg)
 
 ### SVG af borðspili
 
