@@ -26,5 +26,5 @@ Spilið inniheldur 5 borgir og af þeim eru 4 fyrir leikmenn. Í byrjun spilsins
 
 ### STL af 3D leikmunum
 [STL af borðspili](../myndir/Untitled.stl)
-
+[STL af borðspili](../myndir/Untitled1.stl)
 #
