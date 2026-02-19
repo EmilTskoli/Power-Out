@@ -22,7 +22,7 @@ Spilið inniheldur 5 borgir og af þeim eru 4 fyrir leikmenn. Í byrjun spilsins
 ![Mynd af pappírsfrumgerð](../myndir/pappirsfrumgerd.jpg)
 
 ### SVG af borðspili
-![SVG af borðspili](../myndir/bordspilid3.svg)
+![SVG af borðspili](../myndir/bordspilidsvg3.svg)
 
 ### STL af 3D leikmunum
 [STL af borðspili](../myndir/Untitled1.stl)
