@@ -18,6 +18,7 @@ Spilið inniheldur 5 borgir og af þeim eru 4 fyrir leikmenn. Leikmenn ýta á t
 ### Mynd af pappírsfrumgerð
 Á borðinu sjást sexhyrningar. Þeir tákna borgirnar sem eru í spilinu. Sexhyrningarnir sem eru við hliðina á borðinu eru hins vegar reitirnir sem spilarar munu setja niður til þess að tengja saman snúrur. Á hverri borg (fyrir utan miðju-borgina) er svo búið að koma fyrir ljósi í ákveðnum liti, en það eru LED ljósin sem kvikna og slokkna meðan spilað er. Í miðju-borginni er hins vegar stór takki og utan um hann er 16-pera NeoPixel hringur. Á enda spilsins, vinstra megin, má svo sjá fjólubláa útlínu sem táknar LCD skjáinn. Að lokum eru línurnar sem teiknaðar hafa verið á borðið endar spilsins og litirnir kringum sexhyrningana litirnir sem þeir verða prentaðir í.
 
+### Mynd af pappírsfrumgerð
 ![Mynd af pappírsfrumgerð](../myndir/pappirsfrumgerd.jpg)
 
 ### SVG af borðspili
@@ -25,4 +26,7 @@ Spilið inniheldur 5 borgir og af þeim eru 4 fyrir leikmenn. Leikmenn ýta á t
 
 ### STL af 3D leikmunum
 [STL af borðspili](../myndir/Untitled1.stl)
+
+### Mynd inni í spili
+![](../myndir/innikassa.HEIC)
 #
