@@ -28,5 +28,5 @@ Spilið inniheldur 5 borgir og af þeim eru 4 fyrir leikmenn. Leikmenn ýta á t
 [STL af borðspili](../myndir/Untitled1.stl)
 
 ### Mynd inni í spili
-![](../myndir/IMG_4741.jpg)
+![](../myndir/myndafbordspili.jpg)
 #
